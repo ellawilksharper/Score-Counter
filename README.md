@@ -1,4 +1,4 @@
-<h1>Score Counter Game </h1> 
+<h1>Score Counter </h1> 
 
 - This project incorporates HTML/CSS and Javascript to create a score counter. 
 - Also played around with a colour changer interval in CSS.
